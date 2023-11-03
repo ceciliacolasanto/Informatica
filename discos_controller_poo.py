@@ -55,7 +55,7 @@ def get_discos():
     cursor.execute(query)
     discos_list = cursor.fetchall()
     list_of_discos=[]
-    for disco in disco_list:
+    for disco in discos_list:
         id = disco[0]
         titulo = disco[1]
         artista = disco[2]
