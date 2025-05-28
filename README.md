@@ -37,3 +37,5 @@ The system allows fast and reliable interaction with a vinyl record catalog and 
 - Query detailed **song lists** within each album.
 - Perform **exploratory data analysis (EDA)** for business insights.
 - Quickly answer customer questions about album content and availability.
+
+📊 [Download the project presentation](https://www.canva.com/design/DAGovd1vbTY/AdTZcUXT_NVjP-ad_aI17Q/edit?utm_content=DAGovd1vbTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
